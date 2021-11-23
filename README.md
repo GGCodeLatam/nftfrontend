@@ -1,3 +1,6 @@
+LIVE PREVIEW https://summer-flower-6455.on.fleek.co/#/ (DEPLOY IN IPFS)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
